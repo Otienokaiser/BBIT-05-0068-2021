@@ -1,1 +1,1 @@
-# BBIT-05-0068-2021
+# simple python projects
